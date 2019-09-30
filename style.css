@@ -1,0 +1,16 @@
+body {
+    color: rgb(200, 200, 200);
+    background-color: rgb(75, 75, 75);
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#fixed-footer {
+  flex-shrink: none;
+}
+
+.mainRow {
+    padding-top: 4em;
+}
