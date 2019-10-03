@@ -30,7 +30,7 @@ let app = new Vue({
     
         <div class="container">
             <div class="row mainRow">
-                <div class="col-1 text-center" v-for="prime in primes">{{prime}}</div>
+                <div class="col-xl-1 col-lg-2 col-md-3 col-4 text-center" v-for="prime in primes">{{prime}}</div>
             </div>
         </div>
 
